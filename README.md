@@ -2,7 +2,8 @@
 
 # Data Analytics With R Course
 
-**Course Author: Dr Chibisi Chima-Okereke <br\> Copyright 2017 Dr Chibisi Chima-Okereke**
+**Course Author: Dr Chibisi Chima-Okereke
+Copyright 2017 Dr Chibisi Chima-Okereke**
 
 ## Course Introduction
 
